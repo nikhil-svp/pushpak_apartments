@@ -1,2 +1,8 @@
 # pushpak_apartments
-SQL QUERIES THAT PRESENT INFORMATION RELATED TO PUSHPAK APARTMENTS.
+SQL queries that present information related to Pushpak apartments
+
+## Tables
+- MAINTENANCE DUE 
+  - Resident due amount details
+- VEHICLE PROFORMA
+  - Resident vehicle count
